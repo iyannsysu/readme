@@ -25,7 +25,6 @@
 ![Dancing Anime](https://img.shields.io/badge/GIF-Dancing%20Anime-ff69b4?style=for-the-badge&logo=github)  
 ![Asuna GIF](https://img.shields.io/badge/GIF-Asuna%20Love-red?style=for-the-badge&logo=github)
 
-*(nanti bisa disisipin link GIF asli kalau mau ditampilkan langsung)*
 
 ---
 
